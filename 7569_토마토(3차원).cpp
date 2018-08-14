@@ -89,7 +89,7 @@ int main() {
 	cout << result << endl;
 	return 0;
 }
-
+//	BFS
 //	배열화 -> (N*M*i) + (M*j) + k
 //	data / (M*N) = z축
 //	( data % ( M * N ) ) / M  =  y축
